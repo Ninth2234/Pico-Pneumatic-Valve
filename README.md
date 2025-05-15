@@ -4,8 +4,11 @@
 
 This repository provides MicroPython firmware for controlling a 5/2 pneumatic solenoid valve using the RP2040 microcontroller. The solenoid is driven via a DRV8871 brushed DC motor driver breakout, capable of handling inductive loads and providing thermal and overcurrent protection. Power is supplied through the ET-CONV DC JACK V2, supporting a stable DC input. The system enables digital control of pneumatic actuation for soft robotics, automation, or experimental setups. The code includes GPIO control logic, timing sequences, and basic fault tolerance for reliable operation under embedded constraints.
 
+# Wiring diagram
+<img src="hardware/pico_pneumatic_valve_wiring.jpg" alt="wiring_diagram"/>
+
 # Example
-<img src="example/wiring_diagram.png" alt="wiring_diagram"/>
+
 
 [![Watch the video](https://img.youtube.com/vi/QpSRSlQxnmk/hqdefault.jpg)](https://www.youtube.com/watch?v=QpSRSlQxnmk)
 
