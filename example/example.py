@@ -1,4 +1,4 @@
-rom machine import Pin
+from machine import Pin
 from time import sleep
 
 pin_in1 = Pin(0,Pin.OUT)
