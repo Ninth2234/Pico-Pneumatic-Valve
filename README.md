@@ -20,3 +20,4 @@ The code for this example can be found [here](example/example.py).
 * [DRV8871_breakout](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-drv8871-brushed-dc-motor-driver-breakout.pdf)
 * [DRV8871 datasheet](https://www.ti.com/lit/ds/symlink/drv8871.pdf?ts=1747286551105&ref_url=https%253A%252F%252Fwww.google.com%252F)
 * [DC Jack](https://www.ett.co.th/prod2013/et-conv/et-conv%20dc%20jack%20v2.html)
+* [SY3120-5LZD-C4 5/2 solenoid valve_datasheet](https://assets.alliedelec.com/image/upload/v1612352199/Datasheets/76d614c143989abf63989283ef802d50.pdf)
