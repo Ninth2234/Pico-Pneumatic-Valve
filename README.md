@@ -9,9 +9,7 @@ This repository provides MicroPython firmware for controlling a 5/2 pneumatic so
 
 # Example
 
-
 [![Watch the video](https://img.youtube.com/vi/QpSRSlQxnmk/hqdefault.jpg)](https://www.youtube.com/watch?v=QpSRSlQxnmk)
-
 
 The code for this example can be found [here](example/example.py).
 
